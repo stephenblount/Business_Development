@@ -5,3 +5,5 @@ The purpose of this project is to create a proposal for a prospective client gro
 ![](Images/Tableau_Example.png)
 
 Above is the initial data visualization using Tableau. The data for the percentage of population of homeless individuals is mapped for each state, for each year in the analysis range. A screen recording will be made showing the change in homelessness throughout the years. Additional key features have been linked to each state in the detailed information showing: percentage of population below the poverty line, percentage of the population that is unemployed and the percentage of the number of beds available in the population for homeless individuals to utilize.
+
+This data shows how the homeless population changes over time. The data can be used as the starting point for a time-series analysis of homeless population predictions. 
